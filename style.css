@@ -1,7 +1,19 @@
-body{background:#cccccc}
-h1{text-align:center}
-P{text-align:center; }
+body{
+    background:#cccccc
+}
 
-em  strong{color:#FF0000;}
+h1{
+    text-align:center
+}
+
+P{
+    text-align:center;
+ }
+#missao{
+    font-size:20px;
+}
+em  strong{
+    color:#FF0000;
+}
 
  
