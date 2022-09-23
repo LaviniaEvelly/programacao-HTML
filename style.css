@@ -17,3 +17,15 @@ P{
 em  strong{
     color:#FF0000;
 }
+
+#banner{
+    width: 100%;
+}
+
+.itens{
+    font-style:italic;
+}
+
+.beneficios{
+    background-color: aliceblue;
+}
