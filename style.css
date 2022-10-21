@@ -1,6 +1,4 @@
-body{
-    background:#cccccc
-}
+body
 
 h1{
     text-align:center
@@ -22,10 +20,29 @@ em  strong{
     width: 100%;
 }
 
+.pricipal{
+ background:#cccccc
+}
+
 .itens{
     font-style:italic;
 }
 
 .beneficios{
-    background-color: aliceblue;
+    background-color: rgb(252, 253, 253);
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+    width: 50%;
 }
