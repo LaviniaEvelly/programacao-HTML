@@ -1,6 +1,6 @@
 body
 
-h1{
+.titulo-centralizado{
     text-align:center
 }
 
@@ -20,8 +20,13 @@ em  strong{
     width: 100%;
 }
 
-.pricipal{
- background:#cccccc
+.principal{
+   background:#fffefe
+  
+}
+
+.titulo-principal{
+    padding-left: 20px;
 }
 
 .itens{
@@ -30,12 +35,9 @@ em  strong{
 
 .beneficios{
     background-color: rgb(252, 253, 253);
+   Padding: 20px;
 }
-
-h2{
-    text-align: center;
-}
-
+   
 ul{
     display: inline-block;
     vertical-align: top;
